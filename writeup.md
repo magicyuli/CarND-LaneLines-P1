@@ -4,6 +4,8 @@
 
 [image1]: ./writeup/region.png "Region of interest"
 
+Jupyter Notebook can be found at **P1.ipynb**, the HTML version can be found at **P1.html**, which includes updated code, conmments, also some images to show the pipeline. Output images can be found in folder **test_images_output**, and output videos can be found in folder **test_videos_output**.
+
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
